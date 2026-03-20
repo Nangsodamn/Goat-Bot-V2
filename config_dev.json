@@ -1,7 +1,7 @@
 {
   "credentials": {
-    "gmailAccount": "",
-    "gmailPassword": "",
+    "gmailAccount": "nangaibot@gmail.com",
+    "gmailPassword": "adrianng02",
     "clientId": "goatbot"
   }
 }
