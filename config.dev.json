@@ -1,1 +1,7 @@
-
+{
+  "language": "en",
+  "prefix": "!",
+  "adminBot": ["61579497426034"],
+  "nameBot": "GoatBot",
+  "port": 8080
+}
